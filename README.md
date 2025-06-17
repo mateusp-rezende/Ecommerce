@@ -104,10 +104,6 @@ Acesse a [interface Swagger](http://localhost:8080/swagger-ui/index.html) para v
 
 ---
 
-## 📃 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar e contribuir!
-
 ```
 
 ---
