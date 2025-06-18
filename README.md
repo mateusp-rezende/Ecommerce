@@ -106,7 +106,3 @@ Acesse a [interface Swagger](http://localhost:8080/swagger-ui/index.html) para v
 
 ```
 
----
-
-Se quiser que eu adicione um *badge* do Maven, Java ou Spring Boot, ou mesmo uma seção para *testes*, *deploy* ou *contribuição*, posso fazer rapidinho. Deseja incluir mais algo?
-```
